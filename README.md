@@ -23,7 +23,7 @@ trackingUrl : 可用于跟踪应用程序 ApplicationMaster 的 Web URL
 
 applicationType : 应用程序类型(TEZ、MapReduce)
 
-priori : 任务优先权
+priority : 任务优先权
 
 allocatedMB : 分配给应用程序运行容器的内存总量(MB)
 
